@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "BlaBlabla"
-  s.version      = "0.1.1"
+  s.version      = "0.1.2"
   s.summary      = "Description of your project"
   s.description  = "Mandatorily longer description of your project"
   s.homepage     = "https://github.com/ElevatedUnderdogs/PracticeCocoaPod1/tree/main"
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author       = { "Developer" => "your@email.com" }
   s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/ElevatedUnderdogs/PracticeCocoaPod1.git", :tag => "#{s.version}" }
-  s.source_files =  "PracticeCocoaPod1/Classes/**/*.swift" # path to your classes. You can drag them into their own folder.
+  s.source_files =  "Classes/**/*.swift" # path to your classes. You can drag them into their own folder.
 
   s.requires_arc = true
   s.swift_version= '5.0'
