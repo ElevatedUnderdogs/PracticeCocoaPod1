@@ -16,7 +16,7 @@
 		7542F9F32717F5A200462694 /* BlaBlablaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542F9F22717F5A200462694 /* BlaBlablaTests.swift */; };
 		7542F9FD2717F5A200462694 /* BlaBlablaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542F9FC2717F5A200462694 /* BlaBlablaUITests.swift */; };
 		7542F9FF2717F5A200462694 /* BlaBlablaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542F9FE2717F5A200462694 /* BlaBlablaUITestsLaunchTests.swift */; };
-		7542FA102717FC8900462694 /* FirstClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA0F2717FC8900462694 /* FirstClass.swift */; };
+		7542FA162718069800462694 /* FirstClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7542FA152718069800462694 /* FirstClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +51,7 @@
 		7542F9FC2717F5A200462694 /* BlaBlablaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlaBlablaUITests.swift; sourceTree = "<group>"; };
 		7542F9FE2717F5A200462694 /* BlaBlablaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlaBlablaUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7542FA0B2717F5E400462694 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
-		7542FA0F2717FC8900462694 /* FirstClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstClass.swift; sourceTree = "<group>"; };
+		7542FA152718069800462694 /* FirstClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				7542FA0B2717F5E400462694 /* LICENSE.md */,
-				7542FA112717FC8E00462694 /* Classes */,
+				7542FA142718068700462694 /* Classes */,
 				7542F9DA2717F5A000462694 /* BlaBlabla */,
 				7542F9F12717F5A200462694 /* BlaBlablaTests */,
 				7542F9FB2717F5A200462694 /* BlaBlablaUITests */,
@@ -132,10 +132,10 @@
 			path = BlaBlablaUITests;
 			sourceTree = "<group>";
 		};
-		7542FA112717FC8E00462694 /* Classes */ = {
+		7542FA142718068700462694 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				7542FA0F2717FC8900462694 /* FirstClass.swift */,
+				7542FA152718069800462694 /* FirstClass.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -272,7 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7542F9E02717F5A000462694 /* ViewController.swift in Sources */,
-				7542FA102717FC8900462694 /* FirstClass.swift in Sources */,
+				7542FA162718069800462694 /* FirstClass.swift in Sources */,
 				7542F9DC2717F5A000462694 /* AppDelegate.swift in Sources */,
 				7542F9DE2717F5A000462694 /* SceneDelegate.swift in Sources */,
 			);

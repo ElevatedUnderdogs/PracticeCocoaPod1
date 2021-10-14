@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class FirstClass {
+    var woooop: String = "Yowza"
+}
