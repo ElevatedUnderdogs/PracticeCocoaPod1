@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name         = "BlaBlabla"
-  s.version      = "0.1.2"
+  s.name         = "BlaBlablaKevinSamuels"
+  s.version      = "0.1.3"
   s.summary      = "Description of your project"
   s.description  = "Mandatorily longer description of your project"
   s.homepage     = "https://github.com/ElevatedUnderdogs/PracticeCocoaPod1/tree/main"
